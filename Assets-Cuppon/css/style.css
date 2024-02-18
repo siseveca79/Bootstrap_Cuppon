@@ -1,0 +1,96 @@
+body {
+    font-family: 'Roboto', sans-serif;
+  }
+
+  .navbar-toggler {
+    border-color: #fff; 
+  }
+  
+ 
+  .navbar-toggler-icon {
+    background-color: #fff; 
+  }
+  
+  .collapse navbar-collapse{
+    background-color: #fff;
+  }
+  
+  .navbar {
+    border-radius: 0;
+  }
+
+
+  .card {
+    border: 1px solid #dee2e6;
+    border-radius: 8px;
+    margin-bottom: 20px; 
+  }
+
+  .card-title {
+    font-weight: bold;
+  }
+
+  .card-img-top {
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+  }
+
+  .card-body {
+    padding: 20px;
+  }
+
+  .card-price {
+    margin-top: 10px;
+  }
+
+  .regular-price {
+    color: #212529;
+  }
+
+  .offer-price {
+    color: #28a745;
+  }
+
+  
+  .form-label {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    color: #212529;
+  }
+
+  .form-control {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    color: #212529;
+    border-color: #707070;
+  }
+
+
+  .btn-success {
+    background-color: #28a745;
+    border-color: #28a745;
+  }
+
+  .btn-success:hover {
+    background-color: #218838;
+    border-color: #1e7e34;
+  }
+
+  .btn-success:focus,
+  .btn-success.focus {
+    box-shadow: 0 0 0 0.2rem rgba(40, 167, 69, 0.5);
+  }
+
+  
+  .footer {
+    background-color: #28a745;
+    text-align: center;
+    padding: 20px 0;
+    color: #fff;
+  }
+
+  .footer img {
+    text-align: center;
+    width: 50px;
+    margin-bottom: 10px;
+  }
